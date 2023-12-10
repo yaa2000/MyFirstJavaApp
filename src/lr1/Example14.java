@@ -8,9 +8,9 @@ public class Example14 {
         System.out.println("Введите число: ");
         int a, b, c, d;
         b = in.nextInt();
-        a = b-1;
-        c = b+1;
-        d = (a + b + c)*(a+b+c);
+        a = b - 1;
+        c = b + 1;
+        d = (a + b + c) * (a + b + c);
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
