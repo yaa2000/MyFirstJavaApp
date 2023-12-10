@@ -11,6 +11,8 @@ public class Example15 {
         int b = in.nextInt();
         int c = a+b;
         int d = a-b;
+
+
         System.out.println("Сумма: " + c);
         System.out.println("Разность: " + d);
         in.close();
