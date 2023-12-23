@@ -7,7 +7,7 @@ public class Example4 {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите число от 5 до 10 включительно:");
         int x = in.nextInt();
-        if ( x >= x & x <= 10) {
+        if ( x >= 5 & x <= 10) {
             System.out.println("Верно!");
         } else {
             System.out.println("Введенное число не удовлетворяет заданным условиям");
