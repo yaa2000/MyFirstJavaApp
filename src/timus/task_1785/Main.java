@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int numderOfMonsters = in.nextInt();
-
         if (numderOfMonsters >= 1 & numderOfMonsters <= 4) {
             System.out.println("few");
         } else if (numderOfMonsters >= 5 & numderOfMonsters <= 9) {
